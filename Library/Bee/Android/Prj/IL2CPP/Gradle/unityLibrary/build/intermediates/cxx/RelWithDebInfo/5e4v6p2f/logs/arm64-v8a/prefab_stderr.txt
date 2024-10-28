@@ -1,0 +1,2 @@
+Error: Could not find or load main class com.google.prefab.cli.AppKt
+Caused by: java.lang.ClassNotFoundException: com.google.prefab.cli.AppKt
