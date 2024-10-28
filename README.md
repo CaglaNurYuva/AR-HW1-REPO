@@ -1,8 +1,8 @@
 # AR-HW1-REPO
 
-Student Name: Çağla Nur Yuva
+**Student Name:** Çağla Nur Yuva
 
-Student Number: 200104004081
+**Student Number:** 200104004081
 
 **Video Link:** https://youtu.be/2XCH0V9Qmk4
 
