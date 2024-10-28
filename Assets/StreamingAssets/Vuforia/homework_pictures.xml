@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="market" size="1.000000 1.551515" />
     <ImageTarget name="diploma" size="1.000000 1.325566" />
     <ImageTarget name="butterfly-image" size="1.000000 1.000000" />
     <ImageTarget name="cat-image" size="1.000000 1.300680" />
