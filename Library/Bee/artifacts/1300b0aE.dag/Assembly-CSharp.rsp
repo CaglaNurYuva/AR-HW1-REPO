@@ -430,6 +430,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.24f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.24f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/RedDragon 1.2/Assets/Scripts/DragonExample.cs"
+"Assets/Scripts/CubeControl.cs"
 "Assets/Scripts/Drone.cs"
 "Assets/Scripts/ExplosionEffect.cs"
 "Assets/Scripts/SceneController.cs"
