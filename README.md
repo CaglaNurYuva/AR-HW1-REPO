@@ -4,6 +4,7 @@ Student Name: Çağla Nur Yuva
 Student Number: 200104004081
 
 **Video Link:** https://youtu.be/2XCH0V9Qmk4
+
 **GitHub Link:** https://github.com/CaglaNurYuva/AR-HW1-REPO
 
 **Unity Editor Version:** 6000.0.24f1
